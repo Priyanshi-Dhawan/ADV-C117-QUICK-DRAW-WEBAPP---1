@@ -1,0 +1,35 @@
+body {
+    background-color: lemon rgb(132, 194, 40);
+  }
+  
+  h1 {
+    font-family:monospace
+    background-color:white;
+    color:indigo;
+  }
+
+  #show_sketch{
+    float:right
+
+  }
+  #score {
+    font: size 26px;
+    font-family: Oswald;
+   }
+
+   #timer{
+    float:right
+    font: size 24px;
+
+   }
+   p{
+    font size:24px;
+    font-family:oswald;
+    color:black;
+   }
+   #sketch_to_br_drawn:{
+    font size :30px
+    font-family:oswald;
+    color:red;
+   }
+   
